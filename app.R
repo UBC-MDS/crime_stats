@@ -15,31 +15,46 @@ df$Year <- year(df$date)
 df$Month <- month(df$date, label = TRUE, abbr = FALSE)  
 df$Month_Num <- month(df$date)  
 
+
 min_date <- min(df$date, na.rm = TRUE)
 max_date <- max(df$date, na.rm = TRUE)
 
+
 ui <- fluidPage(
-  selectInput("neighborhood", "Select Neighborhood:", 
-              choices = unique(df$Neighbourhood), 
-              selected = unique(df$Neighbourhood)[1]),
   
-  selectInput("y_var", "Crime Committed:", 
-              choices = colnames(df)[!colnames(df) %in% c("Neighbourhood", "date", "Month", "Year")], 
-              selected = "Assaults"),
+  titlePanel("📊 Vancouver Crime Stats "),
   
   fluidRow(
-    column(2, airMonthpickerInput("start_date", "Start Date:",
-                                  minDate = min_date, maxDate = max_date, 
-                                  value = min_date, view = "months")),
     
-    column(2, airMonthpickerInput("end_date", "End Date:",
-                                  minDate = min_date, maxDate = max_date,
-                                  value = max_date, view = "months"))
-  ),
-  
-  plotOutput("plot", width = "600px") 
+    column(4,
+           wellPanel(  
+             h4("🔍 Filters"),
+             
+             selectInput("neighborhood", "Select Neighborhood:", 
+                         choices = unique(df$Neighbourhood), 
+                         selected = unique(df$Neighbourhood)[1]),
+             
+             selectInput("y_var", "Crime Type:", 
+                         choices = colnames(df)[!colnames(df) %in% c("Neighbourhood", "date", "Month", "Year")], 
+                         selected = "Assaults"),
+             
+             airMonthpickerInput("start_date", "Start Date:",
+                                 minDate = min_date, maxDate = max_date, 
+                                 value = min_date, view = "months"),
+             
+             airMonthpickerInput("end_date", "End Date:",
+                                 minDate = min_date, maxDate = max_date, 
+                                 value = max_date, view = "months")
+           )
+    ),
+    
+    column(8, 
+           plotOutput("plot", width = "100%")
+    )
+  )
 )
 
+# Define Server
 server <- function(input, output, session) {
   output$plot <- renderPlot({
     start_date <- as.Date(paste0(input$start_date, "-01"))
@@ -57,11 +72,9 @@ server <- function(input, output, session) {
       geom_line(color = "steelblue") +  
       geom_point(color = "darkred", size = 2) +  
       labs(title = title_text, x = "Date", y = "Crime Count") +  
-      theme_minimal() +  
+      theme_classic() +  
       theme(plot.title = element_text(hjust = 0.5, face = "bold", size = 14))
   })
 }
-
-
 
 shinyApp(ui, server)
