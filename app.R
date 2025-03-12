@@ -4,6 +4,7 @@ library(shiny)
 library(dplyr)
 library(lubridate)
 library(ggplot2)
+library(shinyWidgets)  # For airMonthpickerInput
 
 df <- read.csv("data/processed/combined.csv")
 df <- df |> select(-X)
@@ -11,11 +12,11 @@ df <- df |> select(-X)
 df$date <- as.Date(df$date)
 
 df$Year <- year(df$date)
-df$Month <- month(df$date, label = TRUE, abbr = FALSE)  # Full month names
+df$Month <- month(df$date, label = TRUE, abbr = FALSE)  
+df$Month_Num <- month(df$date)  
 
-# Get the min/max years and months in the dataset
-min_year <- min(df$Year, na.rm = TRUE)
-max_year <- max(df$Year, na.rm = TRUE)
+min_date <- min(df$date, na.rm = TRUE)
+max_date <- max(df$date, na.rm = TRUE)
 
 ui <- fluidPage(
   selectInput("neighborhood", "Select Neighborhood:", 
@@ -26,24 +27,14 @@ ui <- fluidPage(
               choices = colnames(df)[!colnames(df) %in% c("Neighbourhood", "date", "Month", "Year")], 
               selected = "Assaults"),
   
-  # Year and Month Selection
   fluidRow(
-    column(3, 
-           selectInput("start_year", "Start Year:", 
-                       choices = min_year:max_year, 
-                       selected = min_year)),
-    column(3,
-           selectInput("end_year", "End Year:",
-                       choices = min_year:max_year, selected = max_year))
-  ),
-  fluidRow(
-    column(3, 
-           selectInput("start_month", "Start Month:",
-                          choices = month.name, 
-                       selected = "January")),
-    column(3, selectInput("end_month", "End Month:",
-                          choices = month.name, 
-                          selected = "December"))
+    column(2, airMonthpickerInput("start_date", "Start Date:",
+                                  minDate = min_date, maxDate = max_date, 
+                                  value = min_date, view = "months")),
+    
+    column(2, airMonthpickerInput("end_date", "End Date:",
+                                  minDate = min_date, maxDate = max_date,
+                                  value = max_date, view = "months"))
   ),
   
   plotOutput("plot", width = "600px") 
@@ -51,16 +42,26 @@ ui <- fluidPage(
 
 server <- function(input, output, session) {
   output$plot <- renderPlot({
+    start_date <- as.Date(paste0(input$start_date, "-01"))
+    end_date <- as.Date(paste0(input$end_date, "-01"))
+    
+    title_text <- paste("Crime Trends in", input$neighborhood, 
+                        "from", input$start_date, "to", input$end_date)
+    
     df |> 
       filter(
         Neighbourhood == input$neighborhood,
-         (Year >= input$start_year & Month >= input$start_month),
-        (Year <= input$end_year & Month <= input$end_month)
-        ) |> 
+        date >= start_date & date <= end_date
+      ) |> 
       ggplot(aes(x = date, y = .data[[input$y_var]])) +  
-      geom_point() +
-      theme(axis.text.x = element_text(angle = 45, hjust = 1))
+      geom_line(color = "steelblue") +  
+      geom_point(color = "darkred", size = 2) +  
+      labs(title = title_text, x = "Date", y = "Crime Count") +  
+      theme_minimal() +  
+      theme(plot.title = element_text(hjust = 0.5, face = "bold", size = 14))
   })
 }
+
+
 
 shinyApp(ui, server)
