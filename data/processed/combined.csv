@@ -1,0 +1,626 @@
+,Neighbourhood,Sex Offences,Assaults,Robbery,B&E,Theft of MV,Theft from Auto,Theft <$5K,Arson,Mischief,Offensive Weapons,year,month
+0,Arbutus Ridge,1,1,0,5,1,4,4,0,6,0,2023,jan
+1,Central Business District,14,158,18,55,6,185,240,6,220,22,2023,jan
+2,Dunbar - Southlands,0,2,1,4,1,4,5,0,5,0,2023,jan
+3,Fairview,1,11,0,13,3,25,46,0,26,1,2023,jan
+4,Grandview - Woodland,4,18,4,21,7,41,31,0,21,4,2023,jan
+5,Hastings - Sunrise,3,6,1,12,5,19,15,2,15,2,2023,jan
+6,Kensington - Cedar Cottage,3,11,1,14,7,39,28,2,24,2,2023,jan
+7,Kerrisdale,0,5,0,5,0,1,6,0,2,0,2023,jan
+8,Killarney,1,10,1,2,3,25,17,0,10,1,2023,jan
+9,Kitsilano,2,4,0,19,2,22,27,0,9,1,2023,jan
+10,Marpole,0,9,1,9,0,12,18,2,3,0,2023,jan
+11,Mount Pleasant,3,22,2,23,7,29,80,0,29,5,2023,jan
+12,Musqueam,0,4,0,0,0,0,0,0,0,0,2023,jan
+13,Oakridge,1,3,0,2,0,7,8,0,5,1,2023,jan
+14,Renfrew - Collingwood,3,14,5,10,2,35,87,0,13,1,2023,jan
+15,Riley Park,2,4,0,8,2,13,18,0,15,1,2023,jan
+16,Shaughnessy,1,1,0,5,0,3,3,0,2,0,2023,jan
+17,South Cambie,1,5,0,3,1,6,9,0,7,0,2023,jan
+18,Stanley Park,0,1,1,1,0,2,1,1,1,0,2023,jan
+19,Strathcona,3,63,6,17,5,39,44,1,30,7,2023,jan
+20,Sunset,2,8,2,3,4,36,71,2,9,1,2023,jan
+21,Victoria - Fraserview,0,6,0,5,5,16,14,1,4,0,2023,jan
+22,West End,4,29,5,29,3,54,45,2,31,0,2023,jan
+23,West Point Grey,1,3,0,3,1,11,4,0,4,0,2023,jan
+24,GRAND TOTAL,50,398,48,268,65,628,821,19,491,49,2023,jan
+0,Arbutus Ridge,0,1,1,5,0,5,3,0,4,0,2023,feb
+1,Central Business District,10,131,11,51,8,175,327,6,196,22,2023,feb
+2,Dunbar - Southlands,3,3,0,4,1,3,10,0,7,0,2023,feb
+3,Fairview,2,9,0,16,4,21,62,1,19,0,2023,feb
+4,Grandview - Woodland,2,14,5,23,8,27,34,2,19,5,2023,feb
+5,Hastings - Sunrise,1,3,1,8,8,14,13,0,9,1,2023,feb
+6,Kensington - Cedar Cottage,4,14,1,8,4,18,30,0,14,1,2023,feb
+7,Kerrisdale,1,1,0,7,0,5,10,0,1,0,2023,feb
+8,Killarney,1,6,1,2,5,12,11,0,9,1,2023,feb
+9,Kitsilano,1,4,2,16,0,22,31,1,15,1,2023,feb
+10,Marpole,0,7,2,11,1,17,12,1,7,0,2023,feb
+11,Mount Pleasant,0,20,0,11,6,16,74,3,16,2,2023,feb
+12,Musqueam,0,0,0,1,0,0,0,0,0,0,2023,feb
+13,Oakridge,0,3,0,5,2,4,4,0,1,0,2023,feb
+14,Renfrew - Collingwood,5,12,4,3,7,30,144,0,8,1,2023,feb
+15,Riley Park,3,3,0,6,3,11,12,0,3,0,2023,feb
+16,Shaughnessy,1,1,0,6,1,1,6,0,2,0,2023,feb
+17,South Cambie,0,3,0,1,0,1,10,0,3,0,2023,feb
+18,Stanley Park,0,0,0,0,0,2,0,0,0,0,2023,feb
+19,Strathcona,4,53,7,16,8,26,42,5,34,13,2023,feb
+20,Sunset,0,8,1,8,3,20,104,0,10,2,2023,feb
+21,Victoria - Fraserview,0,6,1,6,4,15,17,0,2,2,2023,feb
+22,West End,4,25,0,14,2,38,73,3,26,3,2023,feb
+23,West Point Grey,1,4,0,0,0,6,1,0,0,0,2023,feb
+24,GRAND TOTAL,43,331,37,228,75,489,1030,22,405,54,2023,feb
+0,Arbutus Ridge,0,2,0,8,0,7,7,0,12,0,2023,mar
+1,Central Business District,12,152,29,68,14,226,321,20,260,24,2023,mar
+2,Dunbar - Southlands,0,1,0,8,1,7,11,0,3,0,2023,mar
+3,Fairview,0,12,1,32,4,33,70,2,22,2,2023,mar
+4,Grandview - Woodland,5,20,3,17,13,21,38,2,25,4,2023,mar
+5,Hastings - Sunrise,0,8,4,16,4,35,14,1,11,1,2023,mar
+6,Kensington - Cedar Cottage,3,14,4,10,5,35,36,4,22,5,2023,mar
+7,Kerrisdale,0,4,0,5,1,7,6,1,6,0,2023,mar
+8,Killarney,2,5,0,6,4,12,10,0,5,0,2023,mar
+9,Kitsilano,2,4,0,9,2,23,31,0,22,1,2023,mar
+10,Marpole,0,5,0,8,4,20,21,0,13,0,2023,mar
+11,Mount Pleasant,1,20,5,21,5,19,60,2,19,0,2023,mar
+12,Oakridge,3,4,0,8,0,6,7,1,4,0,2023,mar
+13,Renfrew - Collingwood,1,11,0,17,5,19,136,0,13,0,2023,mar
+14,Riley Park,0,2,1,7,2,13,15,0,12,0,2023,mar
+15,Shaughnessy,1,2,0,4,0,4,4,0,2,0,2023,mar
+16,South Cambie,1,2,1,10,0,8,6,1,8,0,2023,mar
+17,Stanley Park,0,0,0,0,0,3,1,0,1,0,2023,mar
+18,Strathcona,8,67,9,19,8,57,47,7,65,9,2023,mar
+19,Sunset,2,5,0,5,2,19,79,0,5,0,2023,mar
+20,Victoria - Fraserview,0,4,1,2,5,17,6,0,6,0,2023,mar
+21,West End,4,28,4,28,3,47,59,6,28,1,2023,mar
+22,West Point Grey,1,4,0,3,1,7,7,0,8,0,2023,mar
+23,GRAND TOTAL,46,376,62,311,83,645,992,47,572,47,2023,mar
+24,,,,,,,,,,,,2023,mar
+0,Arbutus Ridge,0,0,0,4,1,1,9,0,1,0,2023,apr
+1,Central Business District,11,174,17,53,10,142,282,22,215,29,2023,apr
+2,Dunbar - Southlands,1,1,1,2,2,4,11,1,3,0,2023,apr
+3,Fairview,1,11,1,20,1,25,66,1,23,1,2023,apr
+4,Grandview - Woodland,2,22,4,18,7,23,39,3,31,3,2023,apr
+5,Hastings - Sunrise,1,9,2,18,4,10,12,0,13,2,2023,apr
+6,Kensington - Cedar Cottage,1,11,0,15,3,35,21,3,15,3,2023,apr
+7,Kerrisdale,0,3,0,7,3,5,6,0,2,0,2023,apr
+8,Killarney,2,6,1,7,5,11,12,1,3,1,2023,apr
+9,Kitsilano,1,13,0,17,1,22,27,2,12,1,2023,apr
+10,Marpole,3,7,1,8,0,18,34,0,11,0,2023,apr
+11,Mount Pleasant,2,10,2,12,2,32,60,1,34,4,2023,apr
+12,Musqueam,1,0,0,0,0,0,0,0,0,0,2023,apr
+13,Oakridge,0,2,0,6,1,5,8,1,1,0,2023,apr
+14,Renfrew - Collingwood,3,12,0,19,5,40,104,0,23,1,2023,apr
+15,Riley Park,1,4,0,12,1,19,9,0,10,1,2023,apr
+16,Shaughnessy,3,1,2,4,0,4,4,0,2,0,2023,apr
+17,South Cambie,0,1,0,12,1,4,11,1,4,0,2023,apr
+18,Stanley Park,1,1,0,1,1,0,3,0,0,0,2023,apr
+19,Strathcona,3,60,5,15,4,34,38,10,39,13,2023,apr
+20,Sunset,0,10,1,4,2,29,73,1,6,0,2023,apr
+21,Victoria - Fraserview,1,6,0,5,0,21,4,0,2,1,2023,apr
+22,West End,6,23,3,11,2,41,65,3,27,2,2023,apr
+23,West Point Grey,1,4,0,0,3,4,3,0,3,0,2023,apr
+24,GRAND TOTAL,45,391,40,270,59,529,901,50,480,62,2023,apr
+0,Arbutus Ridge,1,0,0,7,0,5,8,0,1,1,2023,may
+1,Central Business District,21,152,18,54,5,198,353,16,210,34,2023,may
+2,Dunbar - Southlands,1,2,0,6,0,6,9,0,2,0,2023,may
+3,Fairview,2,12,3,19,4,26,76,0,24,2,2023,may
+4,Grandview - Woodland,7,18,2,13,5,10,37,6,23,4,2023,may
+5,Hastings - Sunrise,2,12,1,10,4,16,11,0,10,0,2023,may
+6,Kensington - Cedar Cottage,2,22,3,12,8,34,31,3,13,0,2023,may
+7,Kerrisdale,1,2,2,4,0,7,6,0,1,0,2023,may
+8,Killarney,4,10,1,1,3,8,8,1,4,0,2023,may
+9,Kitsilano,4,12,1,12,1,19,37,1,20,2,2023,may
+10,Marpole,1,5,2,13,3,20,26,1,14,1,2023,may
+11,Mount Pleasant,0,13,0,17,2,15,84,5,24,3,2023,may
+12,Musqueam,0,1,0,0,0,0,0,0,1,0,2023,may
+13,Oakridge,0,2,0,3,1,6,10,0,3,0,2023,may
+14,Renfrew - Collingwood,1,15,2,9,7,27,150,1,17,2,2023,may
+15,Riley Park,4,5,1,5,1,23,11,1,7,1,2023,may
+16,Shaughnessy,0,2,0,4,1,8,2,0,1,1,2023,may
+17,South Cambie,1,3,1,4,0,2,10,0,4,1,2023,may
+18,Stanley Park,1,3,0,0,0,13,4,0,2,0,2023,may
+19,Strathcona,3,64,1,21,6,39,58,7,37,9,2023,may
+20,Sunset,4,8,0,11,3,20,73,0,9,0,2023,may
+21,Victoria - Fraserview,1,11,1,2,2,23,1,0,7,0,2023,may
+22,West End,4,37,6,7,2,38,109,0,20,4,2023,may
+23,West Point Grey,0,0,0,5,1,7,8,0,4,0,2023,may
+24,GRAND TOTAL,65,411,45,239,59,570,1122,42,458,65,2023,may
+0,Arbutus Ridge,1,2,0,3,1,5,6,0,3,0,2023,jun
+1,Central Business District,12,165,19,69,10,200,393,18,204,38,2023,jun
+2,Dunbar - Southlands,1,5,1,14,0,13,13,0,2,0,2023,jun
+3,Fairview,1,19,2,15,3,22,93,0,14,1,2023,jun
+4,Grandview - Woodland,2,21,4,12,6,30,53,0,21,5,2023,jun
+5,Hastings - Sunrise,1,7,0,9,6,29,11,0,10,0,2023,jun
+6,Kensington - Cedar Cottage,2,18,2,12,7,33,45,0,11,2,2023,jun
+7,Kerrisdale,1,6,1,8,0,8,10,0,5,0,2023,jun
+8,Killarney,2,5,0,7,2,12,10,0,4,1,2023,jun
+9,Kitsilano,1,10,4,16,2,16,39,0,20,1,2023,jun
+10,Marpole,2,7,1,13,6,16,18,1,9,1,2023,jun
+11,Mount Pleasant,3,16,7,21,3,31,103,1,20,4,2023,jun
+12,Musqueam,1,1,0,1,0,1,2,0,2,0,2023,jun
+13,Oakridge,0,2,0,3,1,14,11,0,8,0,2023,jun
+14,Renfrew - Collingwood,4,20,2,12,6,31,159,1,10,2,2023,jun
+15,Riley Park,4,3,0,5,2,25,15,0,4,1,2023,jun
+16,Shaughnessy,0,3,0,1,0,4,5,0,0,0,2023,jun
+17,South Cambie,1,3,1,4,1,6,8,0,5,0,2023,jun
+18,Stanley Park,0,4,1,0,0,5,9,0,2,0,2023,jun
+19,Strathcona,3,71,5,27,5,31,60,4,48,10,2023,jun
+20,Sunset,5,5,0,3,5,19,84,0,11,0,2023,jun
+21,Victoria - Fraserview,2,7,0,5,6,17,8,0,6,0,2023,jun
+22,West End,6,35,5,12,8,51,99,0,18,5,2023,jun
+23,West Point Grey,0,3,0,9,1,8,3,0,0,0,2023,jun
+24,GRAND TOTAL,55,438,55,281,81,627,1257,25,437,71,2023,jun
+0,Arbutus Ridge,0,2,0,2,0,3,4,0,1,1,2023,jul
+1,Central Business District,17,173,20,57,13,255,386,33,231,38,2023,jul
+2,Dunbar - Southlands,1,2,0,7,0,9,5,0,5,0,2023,jul
+3,Fairview,3,11,1,20,3,25,92,0,17,4,2023,jul
+4,Grandview - Woodland,1,17,6,14,6,27,38,6,27,2,2023,jul
+5,Hastings - Sunrise,1,15,0,7,7,30,19,1,16,1,2023,jul
+6,Kensington - Cedar Cottage,5,16,3,13,3,26,29,0,26,0,2023,jul
+7,Kerrisdale,0,2,0,0,0,11,8,0,4,0,2023,jul
+8,Killarney,2,5,2,6,1,19,5,0,5,0,2023,jul
+9,Kitsilano,3,3,4,14,1,32,51,0,17,2,2023,jul
+10,Marpole,1,8,0,6,3,13,19,0,5,1,2023,jul
+11,Mount Pleasant,3,27,3,12,5,22,98,0,29,2,2023,jul
+12,Musqueam,1,2,0,0,0,1,0,0,1,0,2023,jul
+13,Oakridge,0,1,0,1,0,9,10,0,8,0,2023,jul
+14,Renfrew - Collingwood,3,11,2,12,6,38,139,1,14,1,2023,jul
+15,Riley Park,0,4,1,2,4,26,10,1,13,0,2023,jul
+16,Shaughnessy,1,3,0,2,0,7,3,0,1,1,2023,jul
+17,South Cambie,0,2,0,0,0,6,10,0,3,0,2023,jul
+18,Stanley Park,0,5,0,0,1,4,7,0,4,0,2023,jul
+19,Strathcona,7,86,7,14,10,32,74,8,42,15,2023,jul
+20,Sunset,2,8,0,5,6,22,72,1,8,1,2023,jul
+21,Victoria - Fraserview,1,3,0,8,2,7,4,0,3,2,2023,jul
+22,West End,5,52,3,12,4,50,113,3,27,4,2023,jul
+23,West Point Grey,1,1,0,5,2,11,9,0,5,0,2023,jul
+24,GRAND TOTAL,58,459,52,219,77,685,1205,54,512,75,2023,jul
+0,Arbutus Ridge,1,1,0,3,3,6,5,1,4,1,2023,aug
+1,Central Business District,21,183,27,58,14,323,359,9,251,29,2023,aug
+2,Dunbar - Southlands,1,2,1,8,1,14,11,0,3,0,2023,aug
+3,Fairview,2,13,2,17,1,25,92,0,15,0,2023,aug
+4,Grandview - Woodland,0,21,5,15,7,23,45,5,30,4,2023,aug
+5,Hastings - Sunrise,4,16,1,6,2,20,13,0,17,1,2023,aug
+6,Kensington - Cedar Cottage,7,18,1,15,7,52,31,2,13,1,2023,aug
+7,Kerrisdale,0,4,0,4,0,8,22,0,7,0,2023,aug
+8,Killarney,1,5,0,2,6,7,14,0,8,2,2023,aug
+9,Kitsilano,3,6,1,5,1,28,42,1,12,0,2023,aug
+10,Marpole,4,8,3,1,5,15,21,0,7,2,2023,aug
+11,Mount Pleasant,4,25,4,13,3,40,93,4,29,1,2023,aug
+12,Musqueam,0,3,0,0,1,0,0,0,2,0,2023,aug
+13,Oakridge,0,2,0,5,1,4,3,0,3,0,2023,aug
+14,Renfrew - Collingwood,1,14,2,13,3,15,141,1,19,2,2023,aug
+15,Riley Park,1,1,1,8,0,16,11,0,11,0,2023,aug
+16,Shaughnessy,1,3,0,2,1,5,1,0,2,0,2023,aug
+17,South Cambie,0,2,0,3,1,10,12,0,8,0,2023,aug
+18,Stanley Park,0,2,0,0,0,9,12,0,8,1,2023,aug
+19,Strathcona,7,76,13,17,9,23,95,7,50,20,2023,aug
+20,Sunset,3,10,3,3,4,14,61,0,11,1,2023,aug
+21,Victoria - Fraserview,0,6,1,7,1,13,10,2,8,0,2023,aug
+22,West End,4,34,7,25,7,37,110,0,51,3,2023,aug
+23,West Point Grey,2,3,0,3,0,8,4,0,2,0,2023,aug
+24,GRAND TOTAL,67,458,72,233,78,715,1208,32,571,68,2023,aug
+0,Arbutus Ridge,0,0,0,2,0,5,4,0,6,0,2023,sep
+1,Central Business District,8,181,23,44,8,220,352,10,204,36,2023,sep
+2,Dunbar - Southlands,0,1,0,3,1,8,5,0,3,0,2023,sep
+3,Fairview,2,13,5,19,2,20,56,1,17,1,2023,sep
+4,Grandview - Woodland,1,28,1,15,7,16,22,1,34,6,2023,sep
+5,Hastings - Sunrise,1,12,2,10,4,17,10,0,18,2,2023,sep
+6,Kensington - Cedar Cottage,3,17,3,23,4,37,66,0,34,5,2023,sep
+7,Kerrisdale,2,2,0,2,3,9,11,0,1,0,2023,sep
+8,Killarney,1,7,3,5,2,8,8,0,4,0,2023,sep
+9,Kitsilano,1,8,0,9,3,28,35,2,13,2,2023,sep
+10,Marpole,3,6,1,10,3,7,17,0,9,0,2023,sep
+11,Mount Pleasant,4,13,4,24,1,35,85,4,32,3,2023,sep
+12,Musqueam,1,1,0,2,1,1,0,0,0,0,2023,sep
+13,Oakridge,0,2,0,1,2,8,4,0,4,0,2023,sep
+14,Renfrew - Collingwood,2,14,3,11,7,25,145,1,24,1,2023,sep
+15,Riley Park,0,7,0,10,3,25,21,0,6,0,2023,sep
+16,Shaughnessy,1,1,0,6,1,5,2,0,0,0,2023,sep
+17,South Cambie,1,2,1,2,0,5,9,0,3,0,2023,sep
+18,Stanley Park,0,6,0,0,0,7,5,0,0,0,2023,sep
+19,Strathcona,2,74,5,22,2,31,71,6,55,16,2023,sep
+20,Sunset,1,10,1,9,3,13,47,0,5,0,2023,sep
+21,Victoria - Fraserview,0,2,1,2,3,16,11,0,6,0,2023,sep
+22,West End,3,31,1,19,4,61,93,0,27,1,2023,sep
+23,West Point Grey,2,2,1,1,0,8,5,0,0,0,2023,sep
+24,GRAND TOTAL,39,440,55,251,64,615,1084,25,505,73,2023,sep
+0,Arbutus Ridge,0,2,0,1,0,10,4,0,4,0,2023,oct
+1,Central Business District,13,180,22,52,14,207,327,6,232,30,2023,oct
+2,Dunbar - Southlands,0,0,0,5,2,11,12,0,2,0,2023,oct
+3,Fairview,2,12,0,18,3,32,55,0,13,0,2023,oct
+4,Grandview - Woodland,4,18,5,11,1,37,32,0,15,3,2023,oct
+5,Hastings - Sunrise,2,13,3,4,2,35,13,0,14,1,2023,oct
+6,Kensington - Cedar Cottage,1,6,3,23,2,50,36,1,19,3,2023,oct
+7,Kerrisdale,1,1,0,9,1,10,13,0,8,0,2023,oct
+8,Killarney,0,1,0,4,4,15,14,0,7,1,2023,oct
+9,Kitsilano,6,11,0,9,2,23,30,0,11,2,2023,oct
+10,Marpole,1,9,4,13,2,22,35,0,10,1,2023,oct
+11,Mount Pleasant,1,16,5,19,4,52,69,1,28,3,2023,oct
+12,Musqueam,0,0,0,0,0,0,1,0,0,0,2023,oct
+13,Oakridge,1,5,0,5,2,3,10,0,4,0,2023,oct
+14,Renfrew - Collingwood,1,12,2,22,2,31,119,0,13,1,2023,oct
+15,Riley Park,0,4,1,7,0,11,8,0,5,0,2023,oct
+16,Shaughnessy,0,0,0,1,1,4,4,1,1,0,2023,oct
+17,South Cambie,1,3,0,0,0,4,12,0,4,0,2023,oct
+18,Stanley Park,0,1,0,1,0,3,5,0,0,0,2023,oct
+19,Strathcona,4,50,8,19,4,32,67,3,52,12,2023,oct
+20,Sunset,2,4,2,5,7,15,52,0,7,1,2023,oct
+21,Victoria - Fraserview,3,4,0,6,2,18,18,3,4,1,2023,oct
+22,West End,5,39,2,12,3,46,88,1,22,0,2023,oct
+23,West Point Grey,0,3,0,2,0,8,6,1,4,0,2023,oct
+24,GRAND TOTAL,48,394,57,248,58,679,1030,17,479,59,2023,oct
+0,Arbutus Ridge,1,2,1,2,1,6,8,0,1,0,2023,nov
+1,Central Business District,8,165,22,42,7,161,292,9,180,33,2023,nov
+2,Dunbar - Southlands,0,3,0,5,2,6,9,0,6,0,2023,nov
+3,Fairview,3,8,3,8,2,18,43,0,21,1,2023,nov
+4,Grandview - Woodland,3,12,1,9,5,14,30,1,18,4,2023,nov
+5,Hastings - Sunrise,3,12,0,4,5,19,12,0,17,4,2023,nov
+6,Kensington - Cedar Cottage,2,18,6,13,1,24,21,1,26,3,2023,nov
+7,Kerrisdale,1,0,1,6,0,8,8,1,3,0,2023,nov
+8,Killarney,1,3,2,11,0,8,9,1,12,0,2023,nov
+9,Kitsilano,1,4,2,6,2,23,38,0,10,1,2023,nov
+10,Marpole,0,6,1,8,2,18,31,1,12,1,2023,nov
+11,Mount Pleasant,2,17,5,8,6,28,50,2,27,4,2023,nov
+12,Musqueam,1,1,0,0,0,0,0,0,0,0,2023,nov
+13,Oakridge,0,1,1,6,3,6,6,0,5,0,2023,nov
+14,Renfrew - Collingwood,6,10,2,19,3,24,134,2,20,1,2023,nov
+15,Riley Park,0,7,0,1,1,12,9,1,5,2,2023,nov
+16,Shaughnessy,0,1,0,3,0,5,4,0,5,0,2023,nov
+17,South Cambie,2,1,0,2,2,2,11,0,3,0,2023,nov
+18,Stanley Park,0,0,0,0,0,1,2,0,3,1,2023,nov
+19,Strathcona,3,56,10,18,6,20,56,3,43,6,2023,nov
+20,Sunset,1,5,3,8,0,7,51,0,12,0,2023,nov
+21,Victoria - Fraserview,1,6,0,6,1,10,9,1,14,1,2023,nov
+22,West End,1,30,4,20,2,39,73,0,19,3,2023,nov
+23,West Point Grey,0,2,0,2,0,4,6,0,5,0,2023,nov
+24,GRAND TOTAL,40,370,64,207,51,463,912,23,467,65,2023,nov
+0,Arbutus Ridge,1,1,0,4,0,6,7,0,2,0,2023,dec
+1,Central Business District,9,156,26,31,8,185,403,7,200,25,2023,dec
+2,Dunbar - Southlands,0,2,0,2,1,3,6,0,1,0,2023,dec
+3,Fairview,3,9,1,9,1,17,51,1,20,0,2023,dec
+4,Grandview - Woodland,3,20,5,11,5,23,33,0,26,3,2023,dec
+5,Hastings - Sunrise,0,9,2,10,2,18,17,0,16,0,2023,dec
+6,Kensington - Cedar Cottage,4,14,1,13,4,28,69,4,25,2,2023,dec
+7,Kerrisdale,0,0,0,1,1,4,11,0,5,0,2023,dec
+8,Killarney,2,4,1,12,1,6,16,0,9,1,2023,dec
+9,Kitsilano,0,6,1,6,1,18,41,0,9,0,2023,dec
+10,Marpole,1,8,2,8,3,7,31,0,6,2,2023,dec
+11,Mount Pleasant,3,21,2,14,2,15,70,1,27,1,2023,dec
+12,Musqueam,0,0,0,0,0,1,1,0,0,0,2023,dec
+13,Oakridge,0,3,0,4,1,11,4,0,2,1,2023,dec
+14,Renfrew - Collingwood,5,10,2,20,2,19,93,0,19,3,2023,dec
+15,Riley Park,0,0,0,3,1,13,9,2,4,2,2023,dec
+16,Shaughnessy,0,1,0,3,0,11,4,0,4,0,2023,dec
+17,South Cambie,1,0,0,2,0,4,12,1,4,0,2023,dec
+18,Stanley Park,1,1,0,0,0,1,1,0,1,1,2023,dec
+19,Strathcona,5,58,3,9,5,31,41,3,53,9,2023,dec
+20,Sunset,2,7,0,7,3,9,50,0,6,1,2023,dec
+21,Victoria - Fraserview,0,9,0,5,3,9,7,0,12,1,2023,dec
+22,West End,1,31,5,15,6,31,95,0,30,0,2023,dec
+23,West Point Grey,0,1,0,1,0,2,4,0,5,0,2023,dec
+24,GRAND TOTAL,41,371,51,190,50,472,1076,19,486,52,2023,dec
+0,Arbutus Ridge,0,0,1,2,1,9,7,0,3,0,2024,jan
+1,Central Business District,10,128,17,42,9,169,269,9,155,31,2024,jan
+2,Dunbar - Southlands,0,1,1,1,0,9,3,0,0,0,2024,jan
+3,Fairview,1,10,2,8,4,25,29,0,33,2,2024,jan
+4,Grandview - Woodland,3,29,5,20,0,27,33,0,30,3,2024,jan
+5,Hastings - Sunrise,1,8,0,8,2,23,6,0,20,0,2024,jan
+6,Kensington - Cedar Cottage,3,15,4,9,2,42,31,0,18,4,2024,jan
+7,Kerrisdale,0,0,0,4,0,3,2,0,3,0,2024,jan
+8,Killarney,0,8,0,7,5,8,12,0,7,1,2024,jan
+9,Kitsilano,0,4,2,11,2,20,38,0,10,2,2024,jan
+10,Marpole,2,4,2,13,1,5,22,2,41,0,2024,jan
+11,Mount Pleasant,5,12,2,13,6,24,69,0,27,2,2024,jan
+12,Musqueam,0,3,0,0,0,0,0,0,0,0,2024,jan
+13,Oakridge,0,0,0,3,0,6,5,0,3,0,2024,jan
+14,Renfrew - Collingwood,3,19,1,17,3,24,97,0,27,2,2024,jan
+15,Riley Park,1,1,0,5,3,8,5,0,5,1,2024,jan
+16,Shaughnessy,0,0,0,14,0,1,3,0,4,0,2024,jan
+17,South Cambie,1,1,0,6,0,6,6,0,4,1,2024,jan
+18,Stanley Park,0,0,0,1,0,0,1,0,0,0,2024,jan
+19,Strathcona,2,46,7,7,7,18,44,2,33,7,2024,jan
+20,Sunset,0,4,0,2,4,12,56,0,6,1,2024,jan
+21,Victoria - Fraserview,1,2,0,5,2,12,14,0,10,2,2024,jan
+22,West End,8,38,2,9,4,30,66,0,29,4,2024,jan
+23,West Point Grey,0,0,0,4,0,10,3,0,3,0,2024,jan
+24,GRAND TOTAL,41,333,46,211,55,491,821,13,471,63,2024,jan
+0,Arbutus Ridge,0,1,0,3,1,5,10,0,1,0,2024,feb
+1,Central Business District,22,137,15,41,6,173,336,12,168,20,2024,feb
+2,Dunbar - Southlands,1,2,0,3,0,7,7,0,4,0,2024,feb
+3,Fairview,1,9,1,11,4,15,62,2,15,1,2024,feb
+4,Grandview - Woodland,3,18,3,10,2,19,28,1,26,1,2024,feb
+5,Hastings - Sunrise,2,16,0,13,1,18,12,0,16,0,2024,feb
+6,Kensington - Cedar Cottage,4,10,0,12,2,19,35,1,20,6,2024,feb
+7,Kerrisdale,1,2,1,3,2,2,4,1,2,0,2024,feb
+8,Killarney,1,4,1,5,2,4,12,1,7,1,2024,feb
+9,Kitsilano,0,2,1,2,3,11,29,0,8,0,2024,feb
+10,Marpole,2,9,0,13,4,16,22,4,9,0,2024,feb
+11,Mount Pleasant,0,14,2,5,1,23,55,0,24,2,2024,feb
+12,Musqueam,0,1,0,0,0,0,0,0,0,0,2024,feb
+13,Oakridge,0,2,1,2,0,1,4,0,0,0,2024,feb
+14,Renfrew - Collingwood,3,10,3,19,4,24,109,2,10,3,2024,feb
+15,Riley Park,0,4,0,6,0,15,13,0,6,2,2024,feb
+16,Shaughnessy,0,1,0,4,0,2,5,0,8,0,2024,feb
+17,South Cambie,0,3,1,4,0,4,14,0,1,1,2024,feb
+18,Stanley Park,0,0,0,0,0,1,0,0,3,0,2024,feb
+19,Strathcona,1,45,7,14,1,17,44,1,31,5,2024,feb
+20,Sunset,2,10,0,1,5,9,66,5,4,0,2024,feb
+21,Victoria - Fraserview,1,3,0,5,4,11,13,0,5,0,2024,feb
+22,West End,3,26,5,20,5,40,66,0,22,3,2024,feb
+23,West Point Grey,0,2,0,3,0,7,6,0,7,0,2024,feb
+24,GRAND TOTAL,47,331,41,199,47,443,952,30,397,45,2024,feb
+0,Arbutus Ridge,0,1,0,2,1,6,8,0,4,0,2024,mar
+1,Central Business District,19,134,30,43,6,173,351,5,182,31,2024,mar
+2,Dunbar - Southlands,0,2,0,1,1,13,10,0,7,0,2024,mar
+3,Fairview,2,11,0,19,2,10,73,1,11,1,2024,mar
+4,Grandview - Woodland,1,24,4,13,6,15,29,3,20,3,2024,mar
+5,Hastings - Sunrise,5,9,1,10,3,18,19,1,15,2,2024,mar
+6,Kensington - Cedar Cottage,1,11,2,10,5,25,35,2,16,1,2024,mar
+7,Kerrisdale,2,2,1,4,0,9,7,0,4,0,2024,mar
+8,Killarney,0,6,0,4,1,9,15,0,6,1,2024,mar
+9,Kitsilano,1,4,1,7,4,21,37,1,5,0,2024,mar
+10,Marpole,1,6,0,9,2,17,34,2,5,1,2024,mar
+11,Mount Pleasant,2,20,3,9,3,26,81,1,24,2,2024,mar
+12,Musqueam,0,2,0,0,0,0,2,0,0,0,2024,mar
+13,Oakridge,0,2,1,8,1,7,6,0,5,1,2024,mar
+14,Renfrew - Collingwood,4,8,3,10,7,19,91,0,21,2,2024,mar
+15,Riley Park,2,4,1,2,2,3,12,0,6,0,2024,mar
+16,Shaughnessy,0,1,0,2,1,7,3,0,10,0,2024,mar
+17,South Cambie,0,3,1,4,0,5,21,0,3,3,2024,mar
+18,Stanley Park,2,3,0,0,0,1,3,0,3,0,2024,mar
+19,Strathcona,1,53,6,16,1,15,51,7,27,9,2024,mar
+20,Sunset,1,8,0,4,4,19,79,1,11,1,2024,mar
+21,Victoria - Fraserview,2,5,0,0,1,12,21,0,5,2,2024,mar
+22,West End,3,24,4,7,3,43,67,2,23,1,2024,mar
+23,West Point Grey,0,3,0,0,2,3,5,0,8,0,2024,mar
+24,GRAND TOTAL,49,346,58,184,56,476,1060,26,421,61,2024,mar
+0,Arbutus Ridge,1,2,0,2,0,14,6,0,1,0,2024,apr
+1,Central Business District,25,153,28,35,6,157,321,4,184,28,2024,apr
+2,Dunbar - Southlands,1,0,0,2,1,15,8,0,3,0,2024,apr
+3,Fairview,1,10,0,14,1,17,61,0,16,0,2024,apr
+4,Grandview - Woodland,5,23,3,8,8,25,24,1,25,0,2024,apr
+5,Hastings - Sunrise,3,7,0,9,5,15,22,0,8,1,2024,apr
+6,Kensington - Cedar Cottage,2,11,0,6,10,28,39,0,14,2,2024,apr
+7,Kerrisdale,1,1,0,7,1,15,6,0,4,0,2024,apr
+8,Killarney,0,2,0,5,1,5,12,0,8,1,2024,apr
+9,Kitsilano,1,8,0,7,4,32,49,0,10,0,2024,apr
+10,Marpole,2,2,2,10,2,13,20,0,5,0,2024,apr
+11,Mount Pleasant,3,14,2,18,1,27,64,1,15,4,2024,apr
+12,Musqueam,2,1,0,0,0,0,0,0,0,0,2024,apr
+13,Oakridge,0,2,0,1,0,5,8,0,1,0,2024,apr
+14,Renfrew - Collingwood,2,18,4,12,3,35,115,0,16,1,2024,apr
+15,Riley Park,3,5,0,5,2,16,14,0,7,0,2024,apr
+16,Shaughnessy,1,0,0,4,0,11,8,0,7,0,2024,apr
+17,South Cambie,1,4,0,4,0,2,6,0,4,2,2024,apr
+18,Stanley Park,0,3,0,0,0,1,4,0,0,0,2024,apr
+19,Strathcona,2,48,4,17,4,24,56,4,25,15,2024,apr
+20,Sunset,3,11,1,4,8,18,58,0,13,2,2024,apr
+21,Victoria - Fraserview,0,6,0,3,3,12,16,0,9,1,2024,apr
+22,West End,4,22,5,13,2,37,87,0,20,1,2024,apr
+23,West Point Grey,0,0,0,2,0,6,5,0,3,0,2024,apr
+24,GRAND TOTAL,63,353,49,188,62,530,1009,10,398,58,2024,apr
+0,Arbutus Ridge,0,2,0,1,2,6,12,0,3,0,2024,may
+1,Central Business District,15,167,18,31,12,166,424,3,189,47,2024,may
+2,Dunbar - Southlands,0,3,0,0,0,4,7,0,3,0,2024,may
+3,Fairview,1,15,1,9,4,28,73,0,18,1,2024,may
+4,Grandview - Woodland,1,25,5,11,7,15,33,2,23,5,2024,may
+5,Hastings - Sunrise,0,12,0,5,4,11,20,0,13,0,2024,may
+6,Kensington - Cedar Cottage,3,11,4,10,5,22,61,2,17,4,2024,may
+7,Kerrisdale,0,3,0,3,1,5,6,1,5,0,2024,may
+8,Killarney,2,6,0,2,2,9,15,0,5,1,2024,may
+9,Kitsilano,0,9,0,9,1,24,57,0,13,1,2024,may
+10,Marpole,2,14,1,7,2,8,19,0,5,0,2024,may
+11,Mount Pleasant,2,25,2,9,1,24,66,1,15,5,2024,may
+12,Musqueam,1,1,0,0,0,0,1,0,0,0,2024,may
+13,Oakridge,0,2,0,7,1,5,8,0,7,1,2024,may
+14,Renfrew - Collingwood,4,12,0,19,9,19,127,1,19,1,2024,may
+15,Riley Park,0,4,0,4,1,13,15,1,13,0,2024,may
+16,Shaughnessy,1,1,0,4,2,7,5,0,1,0,2024,may
+17,South Cambie,0,2,0,2,2,4,14,1,3,0,2024,may
+18,Stanley Park,2,3,0,2,0,6,3,0,0,0,2024,may
+19,Strathcona,5,67,9,17,4,39,51,4,36,22,2024,may
+20,Sunset,3,3,0,7,6,15,69,1,16,0,2024,may
+21,Victoria - Fraserview,1,4,1,0,1,15,22,1,7,2,2024,may
+22,West End,2,30,2,9,3,48,93,4,38,5,2024,may
+23,West Point Grey,1,1,0,2,0,14,6,0,4,0,2024,may
+24,GRAND TOTAL,46,422,43,170,70,507,1207,22,453,95,2024,may
+0,Arbutus Ridge,1,3,1,0,0,5,8,0,2,0,2024,jun
+1,Central Business District,12,185,25,28,6,184,353,5,168,44,2024,jun
+2,Dunbar - Southlands,0,4,1,3,0,8,4,0,2,0,2024,jun
+3,Fairview,4,8,0,8,3,18,57,0,14,2,2024,jun
+4,Grandview - Woodland,3,27,7,7,4,23,29,1,11,4,2024,jun
+5,Hastings - Sunrise,1,8,2,7,1,11,17,4,12,2,2024,jun
+6,Kensington - Cedar Cottage,2,7,2,8,6,29,43,3,22,4,2024,jun
+7,Kerrisdale,0,3,0,4,1,3,11,0,4,0,2024,jun
+8,Killarney,0,2,0,5,3,11,13,1,7,1,2024,jun
+9,Kitsilano,3,9,0,3,1,20,47,0,7,0,2024,jun
+10,Marpole,1,10,1,7,1,11,34,0,9,0,2024,jun
+11,Mount Pleasant,3,21,4,8,2,16,79,0,42,1,2024,jun
+12,Musqueam,0,1,0,0,0,0,0,0,0,0,2024,jun
+13,Oakridge,0,1,0,6,0,5,11,0,2,0,2024,jun
+14,Renfrew - Collingwood,1,8,1,10,5,23,109,0,13,1,2024,jun
+15,Riley Park,0,2,0,2,2,12,12,1,12,1,2024,jun
+16,Shaughnessy,0,3,1,2,0,4,5,0,1,0,2024,jun
+17,South Cambie,0,2,0,2,1,7,14,0,3,0,2024,jun
+18,Stanley Park,0,2,0,0,1,12,10,0,3,0,2024,jun
+19,Strathcona,12,52,11,16,4,31,38,4,44,13,2024,jun
+20,Sunset,1,12,1,3,8,21,61,0,7,0,2024,jun
+21,Victoria - Fraserview,4,2,1,6,4,17,14,0,6,1,2024,jun
+22,West End,4,25,3,18,0,34,94,1,18,6,2024,jun
+23,West Point Grey,1,3,0,2,2,9,11,0,2,0,2024,jun
+24,GRAND TOTAL,53,400,61,155,55,514,1074,20,411,80,2024,jun
+0,Arbutus Ridge,0,1,0,2,0,1,11,0,3,0,2024,jul
+1,Central Business District,18,181,22,39,10,196,432,9,179,59,2024,jul
+2,Dunbar - Southlands,0,1,0,0,1,3,9,0,2,0,2024,jul
+3,Fairview,1,12,1,7,1,25,70,1,25,0,2024,jul
+4,Grandview - Woodland,1,20,7,5,7,21,31,1,16,2,2024,jul
+5,Hastings - Sunrise,2,11,0,8,2,18,14,0,11,2,2024,jul
+6,Kensington - Cedar Cottage,0,16,4,8,4,19,40,2,20,2,2024,jul
+7,Kerrisdale,0,4,0,7,0,8,8,0,9,0,2024,jul
+8,Killarney,1,10,0,1,2,13,10,0,6,2,2024,jul
+9,Kitsilano,2,5,1,4,0,9,73,0,8,3,2024,jul
+10,Marpole,1,2,1,12,0,10,26,0,10,1,2024,jul
+11,Mount Pleasant,0,21,0,16,4,26,78,1,23,2,2024,jul
+12,Musqueam,0,0,0,0,0,0,0,0,0,1,2024,jul
+13,Oakridge,0,3,0,4,1,4,8,0,2,0,2024,jul
+14,Renfrew - Collingwood,3,14,1,10,2,14,110,3,14,3,2024,jul
+15,Riley Park,2,3,0,5,1,8,25,0,6,0,2024,jul
+16,Shaughnessy,0,3,0,1,0,11,1,0,3,0,2024,jul
+17,South Cambie,0,0,2,1,0,4,10,0,2,0,2024,jul
+18,Stanley Park,1,3,0,0,0,3,17,1,3,1,2024,jul
+19,Strathcona,9,68,13,22,8,30,57,3,46,23,2024,jul
+20,Sunset,2,7,0,6,3,17,60,2,10,3,2024,jul
+21,Victoria - Fraserview,2,7,0,8,7,12,14,1,9,1,2024,jul
+22,West End,8,40,3,7,5,39,124,0,24,8,2024,jul
+23,West Point Grey,0,4,1,0,2,8,9,0,2,0,2024,jul
+24,GRAND TOTAL,53,436,56,173,60,499,1237,24,433,113,2024,jul
+0,Arbutus Ridge,0,0,0,3,0,8,5,0,5,0,2024,aug
+1,Central Business District,15,170,30,43,13,184,479,10,172,44,2024,aug
+2,Dunbar - Southlands,2,4,0,5,1,2,5,0,8,0,2024,aug
+3,Fairview,2,10,2,8,2,18,69,3,15,1,2024,aug
+4,Grandview - Woodland,1,25,3,8,6,15,40,0,18,7,2024,aug
+5,Hastings - Sunrise,3,24,1,10,7,20,24,2,12,4,2024,aug
+6,Kensington - Cedar Cottage,5,17,5,9,6,13,35,4,13,1,2024,aug
+7,Kerrisdale,1,1,0,1,0,7,5,0,2,0,2024,aug
+8,Killarney,1,6,0,3,4,11,8,1,2,2,2024,aug
+9,Kitsilano,1,7,1,5,2,16,70,0,11,1,2024,aug
+10,Marpole,0,5,3,12,2,11,23,1,16,1,2024,aug
+11,Mount Pleasant,2,24,4,6,3,17,61,1,28,7,2024,aug
+12,Musqueam,1,3,0,0,0,1,0,0,0,0,2024,aug
+13,Oakridge,0,1,0,4,0,6,7,0,3,1,2024,aug
+14,Renfrew - Collingwood,3,10,0,10,6,12,166,0,13,1,2024,aug
+15,Riley Park,0,5,0,4,3,8,29,0,3,1,2024,aug
+16,Shaughnessy,0,1,0,8,1,4,5,0,4,0,2024,aug
+17,South Cambie,1,1,1,4,0,3,9,0,7,0,2024,aug
+18,Stanley Park,1,1,0,2,0,5,9,0,1,0,2024,aug
+19,Strathcona,5,67,11,22,11,26,60,5,34,17,2024,aug
+20,Sunset,1,6,1,5,3,7,67,1,5,1,2024,aug
+21,Victoria - Fraserview,0,5,0,2,2,10,13,0,4,0,2024,aug
+22,West End,1,34,5,13,1,61,118,2,20,5,2024,aug
+23,West Point Grey,0,6,0,3,1,1,5,0,0,0,2024,aug
+24,GRAND TOTAL,46,433,67,190,74,466,1312,30,396,94,2024,aug
+0,Arbutus Ridge,0,1,0,1,1,3,8,0,4,0,2024,sep
+1,Central Business District,14,140,25,32,6,172,466,6,179,47,2024,sep
+2,Dunbar - Southlands,0,2,0,4,0,10,10,0,7,0,2024,sep
+3,Fairview,4,14,3,8,2,14,77,1,10,4,2024,sep
+4,Grandview - Woodland,4,19,2,14,3,14,34,0,28,2,2024,sep
+5,Hastings - Sunrise,0,10,2,5,1,14,20,1,15,3,2024,sep
+6,Kensington - Cedar Cottage,1,12,4,8,2,23,56,1,12,3,2024,sep
+7,Kerrisdale,0,2,0,5,1,5,6,0,2,0,2024,sep
+8,Killarney,2,8,0,2,2,11,11,0,3,0,2024,sep
+9,Kitsilano,2,5,2,6,3,15,75,1,12,3,2024,sep
+10,Marpole,1,5,0,7,4,11,21,0,10,1,2024,sep
+11,Mount Pleasant,0,17,4,11,5,17,66,1,24,4,2024,sep
+12,Musqueam,0,0,0,0,0,0,0,0,1,0,2024,sep
+13,Oakridge,0,2,0,7,1,4,11,0,3,2,2024,sep
+14,Renfrew - Collingwood,3,11,3,10,6,13,88,0,19,2,2024,sep
+15,Riley Park,0,5,0,5,1,8,12,1,7,0,2024,sep
+16,Shaughnessy,2,1,0,4,0,5,2,0,2,0,2024,sep
+17,South Cambie,1,0,0,4,0,3,21,0,2,0,2024,sep
+18,Stanley Park,0,3,1,1,0,6,8,0,0,0,2024,sep
+19,Strathcona,4,55,8,7,3,26,44,3,33,24,2024,sep
+20,Sunset,4,6,0,5,6,10,58,1,5,0,2024,sep
+21,Victoria - Fraserview,1,1,1,3,1,7,17,0,1,0,2024,sep
+22,West End,5,27,1,15,3,31,112,0,19,1,2024,sep
+23,West Point Grey,0,2,0,0,0,3,5,0,3,0,2024,sep
+24,GRAND TOTAL,48,348,56,164,51,425,1228,16,401,96,2024,sep
+0,Arbutus Ridge,0,0,0,0,0,1,15,0,5,1,2024,oct
+1,Central Business District,7,158,29,38,11,124,423,6,142,47,2024,oct
+2,Dunbar - Southlands,0,1,0,1,0,4,15,0,0,0,2024,oct
+3,Fairview,2,14,1,11,1,20,52,1,16,1,2024,oct
+4,Grandview - Woodland,3,20,7,9,8,17,29,1,32,4,2024,oct
+5,Hastings - Sunrise,2,9,0,5,0,15,30,0,10,3,2024,oct
+6,Kensington - Cedar Cottage,1,22,3,6,5,10,38,2,19,1,2024,oct
+7,Kerrisdale,0,2,0,7,1,7,12,1,2,0,2024,oct
+8,Killarney,2,2,0,4,2,10,7,1,7,1,2024,oct
+9,Kitsilano,1,8,3,7,0,20,72,0,18,0,2024,oct
+10,Marpole,2,8,3,6,4,11,27,1,12,0,2024,oct
+11,Mount Pleasant,1,19,8,16,2,26,79,4,19,1,2024,oct
+12,Musqueam,0,1,0,0,0,0,0,0,0,0,2024,oct
+13,Oakridge,1,4,0,6,1,4,6,0,4,0,2024,oct
+14,Renfrew - Collingwood,5,14,5,12,4,13,141,0,15,1,2024,oct
+15,Riley Park,2,5,1,7,3,9,11,0,3,0,2024,oct
+16,Shaughnessy,1,1,0,7,1,3,5,0,4,0,2024,oct
+17,South Cambie,1,1,1,2,0,2,12,0,3,0,2024,oct
+18,Stanley Park,0,2,0,4,0,2,6,2,2,0,2024,oct
+19,Strathcona,6,55,4,15,5,24,51,2,45,14,2024,oct
+20,Sunset,4,7,2,5,10,10,51,0,9,0,2024,oct
+21,Victoria - Fraserview,3,5,0,2,1,18,19,0,5,1,2024,oct
+22,West End,2,31,3,13,3,24,78,0,31,2,2024,oct
+23,West Point Grey,0,0,1,3,0,0,5,0,4,0,2024,oct
+24,GRAND TOTAL,46,389,71,186,62,374,1184,21,407,77,2024,oct
+0,Arbutus Ridge,1,0,1,0,1,1,11,0,6,0,2024,nov
+1,Central Business District,8,130,19,44,4,142,586,4,151,44,2024,nov
+2,Dunbar - Southlands,0,1,0,2,0,9,5,0,5,0,2024,nov
+3,Fairview,3,7,3,8,3,13,39,0,10,2,2024,nov
+4,Grandview - Woodland,5,13,3,6,3,12,33,2,17,1,2024,nov
+5,Hastings - Sunrise,1,7,2,3,5,12,25,0,5,1,2024,nov
+6,Kensington - Cedar Cottage,0,11,1,15,7,16,29,1,13,2,2024,nov
+7,Kerrisdale,0,2,1,7,1,10,16,0,4,0,2024,nov
+8,Killarney,0,5,0,4,2,8,15,0,5,1,2024,nov
+9,Kitsilano,1,6,1,5,1,23,39,1,15,1,2024,nov
+10,Marpole,1,4,0,6,3,9,16,1,8,0,2024,nov
+11,Mount Pleasant,3,14,5,11,4,11,66,3,31,3,2024,nov
+12,Musqueam,0,2,0,0,1,0,0,0,0,0,2024,nov
+13,Oakridge,0,1,0,9,1,5,12,0,4,2,2024,nov
+14,Renfrew - Collingwood,4,10,2,3,5,10,99,1,10,0,2024,nov
+15,Riley Park,3,3,0,2,0,13,10,0,4,0,2024,nov
+16,Shaughnessy,0,0,0,5,0,14,3,0,2,1,2024,nov
+17,South Cambie,1,1,2,4,0,1,8,0,3,1,2024,nov
+18,Stanley Park,0,0,0,0,0,0,0,0,1,1,2024,nov
+19,Strathcona,3,43,4,5,0,20,63,3,21,17,2024,nov
+20,Sunset,3,6,1,3,3,13,38,0,6,1,2024,nov
+21,Victoria - Fraserview,1,6,0,3,6,10,12,0,3,0,2024,nov
+22,West End,3,29,2,10,3,36,82,0,23,2,2024,nov
+23,West Point Grey,0,0,1,2,1,3,6,0,0,0,2024,nov
+24,GRAND TOTAL,41,301,48,157,54,391,1213,16,347,80,2024,nov
+0,Arbutus Ridge,1,2,0,2,2,5,5,0,2,0,2024,dec
+1,Central Business District,14,156,32,26,10,193,401,5,179,48,2024,dec
+2,Dunbar - Southlands,0,2,0,3,0,0,2,0,8,0,2024,dec
+3,Fairview,1,6,0,13,2,18,54,0,16,0,2024,dec
+4,Grandview - Woodland,1,18,4,9,3,12,35,1,8,1,2024,dec
+5,Hastings - Sunrise,0,9,0,4,3,11,26,0,9,2,2024,dec
+6,Kensington - Cedar Cottage,3,13,4,9,4,17,25,2,16,0,2024,dec
+7,Kerrisdale,0,1,0,10,0,3,9,0,1,0,2024,dec
+8,Killarney,0,6,0,4,1,10,13,0,3,1,2024,dec
+9,Kitsilano,0,4,0,6,1,9,38,0,14,0,2024,dec
+10,Marpole,0,4,2,4,0,12,19,0,8,1,2024,dec
+11,Mount Pleasant,5,13,6,14,2,24,83,0,26,6,2024,dec
+12,Musqueam,0,0,0,1,0,1,0,0,0,0,2024,dec
+13,Oakridge,1,2,0,7,1,4,5,0,2,1,2024,dec
+14,Renfrew - Collingwood,3,10,0,7,4,5,112,0,28,0,2024,dec
+15,Riley Park,1,8,2,8,0,2,11,0,5,1,2024,dec
+16,Shaughnessy,0,1,0,4,0,7,4,0,4,0,2024,dec
+17,South Cambie,1,3,0,7,0,2,8,0,2,0,2024,dec
+18,Stanley Park,0,0,1,1,0,0,0,0,0,0,2024,dec
+19,Strathcona,0,57,6,8,7,20,49,3,44,4,2024,dec
+20,Sunset,2,9,1,3,7,10,45,1,14,2,2024,dec
+21,Victoria - Fraserview,0,6,0,3,2,7,15,0,5,2,2024,dec
+22,West End,2,28,4,16,5,46,80,0,25,2,2024,dec
+23,West Point Grey,0,1,0,1,2,3,7,0,2,0,2024,dec
+24,GRAND TOTAL,35,359,62,170,56,421,1046,12,421,71,2024,dec
+0,Arbutus Ridge,0,0,0,2,2,0,9,0,2,0,2025,jan
+1,Central Business District,15,116,21,30,5,155,350,10,160,61,2025,jan
+2,Dunbar-Southlands,0,3,0,0,0,3,6,0,4,0,2025,jan
+3,Fairview,1,6,2,7,4,28,55,2,12,1,2025,jan
+4,Grandview-Woodland,2,29,2,11,5,12,49,0,22,5,2025,jan
+5,Hastings-Sunrise,1,8,1,13,3,13,21,1,8,0,2025,jan
+6,Kensington-Cedar Cottage,3,18,3,5,6,15,39,3,17,0,2025,jan
+7,Kerrisdale,0,2,0,6,1,13,11,0,7,0,2025,jan
+8,Killarney,0,2,1,4,1,4,13,0,7,1,2025,jan
+9,Kitsilano,3,3,1,6,0,13,35,3,4,1,2025,jan
+10,Marpole,2,1,0,6,2,4,26,0,12,0,2025,jan
+11,Mount Pleasant,1,19,6,17,1,15,90,2,21,1,2025,jan
+12,Musqueam,1,0,0,0,0,0,0,0,2,0,2025,jan
+13,Oakridge,2,2,0,5,1,2,11,0,2,0,2025,jan
+14,Renfrew-Collingwood,4,9,2,16,4,18,121,0,25,1,2025,jan
+15,Riley Park,0,3,0,6,3,3,12,0,8,0,2025,jan
+16,Shaughnessy,0,1,1,5,1,2,4,0,4,0,2025,jan
+17,South Cambie,1,1,0,1,0,1,6,0,1,0,2025,jan
+18,Stanley Park,0,2,0,2,0,4,1,0,2,0,2025,jan
+19,Strathcona,8,33,2,3,2,23,46,3,28,8,2025,jan
+20,Sunset,5,7,0,8,5,9,53,0,14,0,2025,jan
+21,Victoria-Fraserview,1,5,0,3,0,10,12,0,7,0,2025,jan
+22,West End,5,15,4,18,2,39,89,5,23,1,2025,jan
+23,West Point Grey,1,1,0,1,1,3,5,0,5,0,2025,jan
+24,Total,56,286,46,175,49,389,1064,29,397,80,2025,jan
