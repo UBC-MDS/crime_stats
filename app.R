@@ -49,18 +49,20 @@ ui <- fluidPage(
     ),
     
     column(8, 
-           plotOutput("plot", width = "100%")
+           plotOutput("plot", width = "100%"),
+           plotOutput("heatmap", width = "100%")
     )
   )
 )
 
 # Define Server
 server <- function(input, output, session) {
+  
   output$plot <- renderPlot({
     start_date <- as.Date(paste0(input$start_date, "-01"))
     end_date <- as.Date(paste0(input$end_date, "-01"))
     
-    title_text <- paste("Crime Trends in", input$neighborhood, 
+    title_text <- paste(input$y_var, "Trend in", input$neighborhood, 
                         "from", input$start_date, "to", input$end_date)
     
     df |> 
@@ -75,6 +77,28 @@ server <- function(input, output, session) {
       theme_classic() +  
       theme(plot.title = element_text(hjust = 0.5, face = "bold", size = 14))
   })
+  
+  output$heatmap <- renderPlot({
+    start_date <- as.Date(paste0(input$start_date, "-01"))
+    end_date <- as.Date(paste0(input$end_date, "-01"))
+    
+    heatmap_title <- paste(input$y_var, 
+                           "from", input$start_date, "to", input$end_date)
+    
+    df |> 
+      filter(date >= start_date & date <= end_date) |> 
+      group_by(Neighbourhood, Month) |> 
+      summarise(Total_Crime = sum(.data[[input$y_var]], na.rm = TRUE)) |> 
+      ungroup() |> 
+      ggplot(aes(x = Month, y = Neighbourhood, fill = Total_Crime)) +
+      geom_tile() +
+      scale_fill_gradient(low = "white", high = "red") +  
+      labs(x = "Month", y = "Neighbourhood", fill = "Crime Count") +
+      theme_classic() +
+      theme(plot.title = element_text(hjust = 0.5, face = "bold", size = 14),
+            axis.text.x = element_text(angle = 45, hjust = 1))
+  })
+  
 }
 
 shinyApp(ui, server)
