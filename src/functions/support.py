@@ -6,7 +6,7 @@ def month_year_generator(start_month, start_year, end_month, end_year):
     end = datetime(end_year, end_month, 1)
 
     while current <= end:
-        yield current.strftime("%b"), current.year  
+        yield current, current.year  
         # Move to next month
         if current.month == 12:
             current = datetime(current.year + 1, 1, 1)
