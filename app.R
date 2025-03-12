@@ -9,12 +9,18 @@ library(ggplot2)
 df <- read.csv("data/processed/combined.csv")
 df <-  df |> select(-X)
 
-ui <- page_fluid(
+ui <- fluidPage(
   selectInput(
     "neighborhood", 
     "Select Neighborhood:", 
-    choices = unique(df$neighborhood), 
-    selected = unique(df$neighborhood)[1] 
+    choices = unique(df$Neighbourhood), 
+    selected = unique(df$Neighbourhood)[1] 
+  ),
+  selectInput(
+    "y_var",
+    "Select Y-axis Variable:",
+    choices = colnames(df)[!colnames(df) %in% c("Neighbourhood", "date")],
+    selected = "Assaults"  # Default selection
   ),
   plotOutput("plot", width = "600px") 
 )
@@ -22,10 +28,12 @@ ui <- page_fluid(
 # Server side callbacks/reactivity
 server <- function(input, output, session) {
   output$plot <- renderPlot({
-    ggplot(df, aes(x = date, y = Assaults)) +
-      geom_point()
+    df |> filter(Neighbourhood == input$neighborhood) |> 
+      ggplot( aes(x = date, y = .data[[input$y_var]])) +
+      geom_point() +
+      theme(axis.text.x = element_text(angle = 45, hjust = 1))
   })
 }
 
-# Run the app/dashboard
+
 shinyApp(ui, server)
